@@ -2,8 +2,5 @@
     "body": {
         "locked": false
     },
-    "ok": true,
-    "status": 200,
-    "type": "basic",
-    "url": "https://myself.coupang.com/sc/chat/api/update-user"
+    "ok": true
 }
